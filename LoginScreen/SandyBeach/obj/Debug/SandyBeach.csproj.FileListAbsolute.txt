@@ -1,0 +1,9 @@
+F:\entw\DesignPattern #1 LoginScreen\LoginScreen\SandyBeach\bin\Debug\SandyBeach.exe.config
+F:\entw\DesignPattern #1 LoginScreen\LoginScreen\SandyBeach\bin\Debug\SandyBeach.exe
+F:\entw\DesignPattern #1 LoginScreen\LoginScreen\SandyBeach\bin\Debug\SandyBeach.pdb
+F:\entw\DesignPattern #1 LoginScreen\LoginScreen\SandyBeach\obj\Debug\SandyBeach.csprojAssemblyReference.cache
+F:\entw\DesignPattern #1 LoginScreen\LoginScreen\SandyBeach\obj\Debug\SandyBeach.Properties.Resources.resources
+F:\entw\DesignPattern #1 LoginScreen\LoginScreen\SandyBeach\obj\Debug\SandyBeach.csproj.GenerateResource.cache
+F:\entw\DesignPattern #1 LoginScreen\LoginScreen\SandyBeach\obj\Debug\SandyBeach.exe
+F:\entw\DesignPattern #1 LoginScreen\LoginScreen\SandyBeach\obj\Debug\SandyBeach.pdb
+F:\entw\DesignPattern #1 LoginScreen\LoginScreen\SandyBeach\obj\Debug\SandyBeach.Login.resources
